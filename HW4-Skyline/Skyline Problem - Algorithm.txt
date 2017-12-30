@@ -1,0 +1,29 @@
+SKYLINE PROBLEM - ALGORITHM
+
+- input size = 2*building+1
+- first insert 0,0 into buildingPoints 
+- first take inputs
+- calculate start and end point (label them as start or end)
+- insert them into array inputs[]
+- sort them according to their x values (consider EDGE CONDITIONS)
+
+- Priority queue initialization
+- max height: max_value = -1
+
+- move from left to right (ascending x values) from inputs[] array
+- if you see a start of a building push the height of that building to PQ
+- if max of the priority queue changes output that building (x and y values)
+- whenever see an end of the building, remove height (y value) of that building from PQ 
+- calculate max again after deletion
+- if it does not change do nothing and go on to the next building point
+- if max_value changes output that building's x value as the same and output y as current max_value of PQ
+
+
+EDGE CONDITIONS:
+- SORT ALGORITHM MODIFICATIONS:
+First compare x values, if they are the same:
+- if two STARTs are compared then higher height building should be the first
+- if two ENDs are compared then lower height building should be the first
+- if one STARTS and END compared, then START should be the first
+else:
+- NORMAL SORT

@@ -1,0 +1,235 @@
+Shorthand definitions for common chords
+Chord Type Shorthand Notation Components List
+Triad Chords:
+Major maj (3,5)
+Minor min (b3,5)
+Diminished dim (b3,b5)
+Augmented aug (3,#5)
+Seventh Chords:
+Major Seventh maj7 (3,5,7)
+Minor Seventh min7 (b3,5,b7)
+Seventh 7 (3,5,b7)
+Diminished Seventh dim7 (b3,b5,bb7)
+Half Diminished Seventh hdim7 (b3,b5,b7)
+Minor (Major Seventh) minmaj7 (b3,5,7)
+Sixth Chords:
+Major Sixth maj6 (3,5,6)
+Minor Sixth min6 (b3,5,6)
+Extended Chords:
+Ninth 9 (3,5,b7,9)
+Major Ninth maj9 (3,5,7,9)
+Minor Ninth min9 (b3,5,b7,9)
+Suspended Chords:
+Suspended 4th sus4 (4,5)
+
+0 C 0.00 00 A I 0.00 0 0 0 0 0.00
+- Bx 13.64 01 Gx# xVII 14.37 2 -3 19 -0.73
+- Axx# 27.27 02 Fxxx xx#VI 28.73 4 -6 38 -1.46
+- E5b 40.91 03 C4b 5bIII 39.72 -3 5 31 1.19
+1 Dbb 54.55 04 Bbb bbII 54.09 -1 2 12 0.46
+- C# 68.18 05 A# #I 68.45 1 -1 7 -0.27
+- Bx# 81.82 06 Gxx x#VII 82.82 3 -4 26 -1.00
+- F6b 95.45 07 D6b 6bIV 93.80 -4 7 43 1.65
+2 E4b 109.09 08 Cbbb 4bIII 108.17 -2 4 24 0.92
+- Db 122.73 09 Bb bII 122.54 0 1 5 0.19
+- Cx 136.36 10 Ax xI 136.90 2 -2 14 -0.54
+- Bxx 150.00 11 Gxx# xxVII 151.27 4 -5 33 -1.27
+3 F5b 163.64 12 D5b 5bIV 162.26 -3 6 36 1.38
+- Ebbb 177.27 13 Cbb 3bIII 176.62 -1 3 17 0.65
+- D 190.91 14 B II 190.99 1 0 2 -0.08
+- Cx# 204.55 15 Ax# x#I 205.35 3 -3 21 -0.81
+4 Bxx# 218.18 16 Gxxx xx#V 219.72 5 -6 40 -1.53
+- F4b 231.82 17 D4b 4bIV 230.71 -2 5 29 1.11
+- Ebb 245.45 18 Cb bbIII 245.07 0 2 10 0.38
+- D# 259.09 19 B# #II 259.44 2 -1 9 -0.35
+5 Cxx 272.73 20 Axx xxI 273.80 4 -4 28 -1.07
+- G6b 286.36 21 E6b 6bV 284.79 -3 7 41 1.57
+- Fbbb 300.00 22 Dbbb bbbIV 299.16 -1 4 22 0.84
+- Eb 313.64 23 C bIII 313.52 1 1 3 0.12
+6 Dx 327.27 24 Bx xII 327.89 3 -2 16 -0.61
+- Cxx# 340.91 25 Axx# xx#I 342.25 5 -5 35 -1.34
+
+- G5b 354.55 26 E5b 5bV 353.24 -2 6 34 1.30
+- Fbb 368.18 27 Dbb bbIV 367.61 0 3 15 0.58
+7 E 381.82 28 C# III 381.97 2 0 4 -0.15
+- Dx# 395.45 29 Bx# x#II 396.34 4 -3 23 -0.88
+- Cxxx 409.09 30 Axxx xxxI 410.70 6 -6 42 -1.61
+- G4b 422.73 31 E4b 4bV 421.69 -1 5 27 1.04
+8 Fb 436.36 32 Db bIV 436.06 1 2 8 0.31
+- E# 450.00 33 Cx #III 450.42 3 -1 11 -0.42
+- Dxx 463.64 34 Bxx xxII 464.79 5 -4 30 -1.15
+- A6b 477.27 35 F5b 6bVI 475.78 -2 7 39 1.50
+9 Gbbb 490.91 36 Ebbb bbbV 490.14 0 4 20 0.77
+- F 504.55 37 D IV 504.51 2 1 1 0.04
+- Ex 518.18 38 Cx# x#III 518.87 4 -2 18 -0.69
+- Dxx# 531.82 39 Bxx# xx#II 533.24 6 -5 37 -1.42
+10 A5b 545.45 40 F4b 5bVI 544.23 -1 6 32 1.23
+- Gbb 559.09 41 Ebb bbV 558.59 1 3 13 0.50
+- F# 572.73 42 D# #IV 572.96 3 0 6 -0.23
+- Ex# 586.36 43 Cxx x#III 587.32 5 -3 25 -0.96
+11 Dxxx 600.00 44 Bxxx xxxII 601.69 7 -6 44 -1.69
+- A4b 613.64 45 Fbbb 4bVI 612.68 0 5 25 0.96
+- Gb 627.27 46 Eb bV 627.04 2 2 6 0.23
+- Fx 640.91 47 Dx xIV 641.41 4 -1 13 -0.50
+12 Exx 654.55 48 Cxx# xxIII 655.77 6 -4 32 -1.23
+- B6b 668.18 49 G5b 6bVII 666.76 -1 7 37 1.42
+- Abbb 681.82 50 Fb bbbVI 681.13 1 4 18 0.69
+- G 695.45 51 E V 695.49 3 1 1 -0.04
+
+13 Fx# 709.09 52 Dx# x#IV 709.86 5 -2 20 -0.77
+- Exx# 722.73 53 Cxxx xx#III 724.22 7 -5 39 -1.50
+- B5b 736.36 54 G4b 5bVII 735.21 0 6 30 1.15
+- Abb 750.00 55 Fb bbVI 749.58 2 3 11 0.42
+14 G# 763.64 56 E# #V 763.94 4 0 8 -0.31
+- Fxx 777.27 57 Dxx xxIV 778.31 6 -3 27 -1.04
+- C6b 790.91 58 A6b 6bVIII 789.30 -1 8 42 1.61
+- B4b 804.55 59 Gbbb 4bVII 803.66 1 5 23 0.88
+15 Ab 818.18 60 F bVI 818.03 3 2 4 0.15
+- Gx 831.82 61 Ex xV 832.39 5 -1 15 -0.58
+- Fxx# 845.45 62 Dxx# xx#IV 846.76 7 -4 34 -1.30
+- C5b 859.09 63 A5b 5bVIII 857.75 0 7 35 1.34
+16 Bbbb 872.73 64 Gbb bbVII 872.11 2 4 16 0.61
+- A 886.36 65 F# VI 886.48 4 1 3 -0.11
+- Gx# 900.00 66 Ex# x#V 900.84 6 -2 22 -0.84
+- Fxxx 913.64 67 Dxxx xxxIV 915.21 8 -5 41 -1.57
+17 C4b 927.27 68 A4b 4bVIII 926.20 1 6 28 1.07
+- Bbb 940.91 69 Gb bbVII 940.56 3 3 9 0.35
+- A# 954.55 70 Fx #VI 954.93 5 0 10 -0.38
+- Gxx 968.18 71 Exx xxV 969.29 7 -3 29 -1.11
+18 D6b 981.82 72 B6b 6bII 980.28 0 8 40 1.53
+- Cbbb 995.45 73 Abbb bbbVII 994.65 2 5 21 0.81
+- Bb 1009.09 74 G bVII 1009.01 4 2 2 0.08
+- Ax 1022.73 75 Fx# xVI 1023.38 6 -1 17 -0.65
+19 Gxx# 1036.36 76 Exx# xx#V 1037.74 8 -4 36 -1.38
+- D5b 1050.00 77 B5b 5bII 1048.73 1 7 33 1.27
+
+- Cbb 1063.64 78 Abb bbVIII 1063.10 3 4 14 0.54
+- B 1077.27 79 G# VII 1077.46 5 1 5 -0.19
+20 Ax# 1090.91 80 Fxx x#IV 1091.83 7 -2 24 -0.92
+- Gxxx 1104.55 81 Exxx xxxV 1106.20 9 -5 43 -1.65
+- D4b 1118.18 82 B4b 4bII 1117.18 2 6 26 1.00
+- Cb 1131.82 83 Ab bVIII 1131.55 4 3 7 0.27
+21 B# 1145.45 84 Gx #VII 1145.91 6 0 12 -0.46
+- Axx 1159.09 85 Fxx# xxVI 1160.28 8 -3 31 -1.19
+- E6b 1172.73 86 C5b 6bIII 1171.27 1 8 38 1.46
+- Dbbb 1186.36 87 Bbbbb bbbII 1185.63 3 5 19 0.73
+22 C 1200.00 88 A VIII 1200.00 5 2 0 0 0.00
+
+after this line is a copy of all text above:
+
+Shorthand definitions for common chords
+Chord Type Shorthand Notation Components List
+Triad Chords:
+Major maj (3,5)
+Minor min (b3,5)
+Diminished dim (b3,b5)
+Augmented aug (3,#5)
+Seventh Chords:
+Major Seventh maj7 (3,5,7)
+Minor Seventh min7 (b3,5,b7)
+Seventh 7 (3,5,b7)
+Diminished Seventh dim7 (b3,b5,bb7)
+Half Diminished Seventh hdim7 (b3,b5,b7)
+Minor (Major Seventh) minmaj7 (b3,5,7)
+Sixth Chords:
+Major Sixth maj6 (3,5,6)
+Minor Sixth min6 (b3,5,6)
+Extended Chords:
+Ninth 9 (3,5,b7,9)
+Major Ninth maj9 (3,5,7,9)
+Minor Ninth min9 (b3,5,b7,9)
+Suspended Chords:
+Suspended 4th sus4 (4,5)
+
+0 C 0.00 00 A I 0.00 0 0 0 0 0.00
+- Bx 13.64 01 Gx# xVII 14.37 2 -3 19 -0.73
+- Axx# 27.27 02 Fxxx xx#VI 28.73 4 -6 38 -1.46
+- E5b 40.91 03 C4b 5bIII 39.72 -3 5 31 1.19
+1 Dbb 54.55 04 Bbb bbII 54.09 -1 2 12 0.46
+- C# 68.18 05 A# #I 68.45 1 -1 7 -0.27
+- Bx# 81.82 06 Gxx x#VII 82.82 3 -4 26 -1.00
+- F6b 95.45 07 D6b 6bIV 93.80 -4 7 43 1.65
+2 E4b 109.09 08 Cbbb 4bIII 108.17 -2 4 24 0.92
+- Db 122.73 09 Bb bII 122.54 0 1 5 0.19
+- Cx 136.36 10 Ax xI 136.90 2 -2 14 -0.54
+- Bxx 150.00 11 Gxx# xxVII 151.27 4 -5 33 -1.27
+3 F5b 163.64 12 D5b 5bIV 162.26 -3 6 36 1.38
+- Ebbb 177.27 13 Cbb 3bIII 176.62 -1 3 17 0.65
+- D 190.91 14 B II 190.99 1 0 2 -0.08
+- Cx# 204.55 15 Ax# x#I 205.35 3 -3 21 -0.81
+4 Bxx# 218.18 16 Gxxx xx#V 219.72 5 -6 40 -1.53
+- F4b 231.82 17 D4b 4bIV 230.71 -2 5 29 1.11
+- Ebb 245.45 18 Cb bbIII 245.07 0 2 10 0.38
+- D# 259.09 19 B# #II 259.44 2 -1 9 -0.35
+5 Cxx 272.73 20 Axx xxI 273.80 4 -4 28 -1.07
+- G6b 286.36 21 E6b 6bV 284.79 -3 7 41 1.57
+- Fbbb 300.00 22 Dbbb bbbIV 299.16 -1 4 22 0.84
+- Eb 313.64 23 C bIII 313.52 1 1 3 0.12
+6 Dx 327.27 24 Bx xII 327.89 3 -2 16 -0.61
+- Cxx# 340.91 25 Axx# xx#I 342.25 5 -5 35 -1.34
+
+- G5b 354.55 26 E5b 5bV 353.24 -2 6 34 1.30
+- Fbb 368.18 27 Dbb bbIV 367.61 0 3 15 0.58
+7 E 381.82 28 C# III 381.97 2 0 4 -0.15
+- Dx# 395.45 29 Bx# x#II 396.34 4 -3 23 -0.88
+- Cxxx 409.09 30 Axxx xxxI 410.70 6 -6 42 -1.61
+- G4b 422.73 31 E4b 4bV 421.69 -1 5 27 1.04
+8 Fb 436.36 32 Db bIV 436.06 1 2 8 0.31
+- E# 450.00 33 Cx #III 450.42 3 -1 11 -0.42
+- Dxx 463.64 34 Bxx xxII 464.79 5 -4 30 -1.15
+- A6b 477.27 35 F5b 6bVI 475.78 -2 7 39 1.50
+9 Gbbb 490.91 36 Ebbb bbbV 490.14 0 4 20 0.77
+- F 504.55 37 D IV 504.51 2 1 1 0.04
+- Ex 518.18 38 Cx# x#III 518.87 4 -2 18 -0.69
+- Dxx# 531.82 39 Bxx# xx#II 533.24 6 -5 37 -1.42
+10 A5b 545.45 40 F4b 5bVI 544.23 -1 6 32 1.23
+- Gbb 559.09 41 Ebb bbV 558.59 1 3 13 0.50
+- F# 572.73 42 D# #IV 572.96 3 0 6 -0.23
+- Ex# 586.36 43 Cxx x#III 587.32 5 -3 25 -0.96
+11 Dxxx 600.00 44 Bxxx xxxII 601.69 7 -6 44 -1.69
+- A4b 613.64 45 Fbbb 4bVI 612.68 0 5 25 0.96
+- Gb 627.27 46 Eb bV 627.04 2 2 6 0.23
+- Fx 640.91 47 Dx xIV 641.41 4 -1 13 -0.50
+12 Exx 654.55 48 Cxx# xxIII 655.77 6 -4 32 -1.23
+- B6b 668.18 49 G5b 6bVII 666.76 -1 7 37 1.42
+- Abbb 681.82 50 Fb bbbVI 681.13 1 4 18 0.69
+- G 695.45 51 E V 695.49 3 1 1 -0.04
+
+13 Fx# 709.09 52 Dx# x#IV 709.86 5 -2 20 -0.77
+- Exx# 722.73 53 Cxxx xx#III 724.22 7 -5 39 -1.50
+- B5b 736.36 54 G4b 5bVII 735.21 0 6 30 1.15
+- Abb 750.00 55 Fb bbVI 749.58 2 3 11 0.42
+14 G# 763.64 56 E# #V 763.94 4 0 8 -0.31
+- Fxx 777.27 57 Dxx xxIV 778.31 6 -3 27 -1.04
+- C6b 790.91 58 A6b 6bVIII 789.30 -1 8 42 1.61
+- B4b 804.55 59 Gbbb 4bVII 803.66 1 5 23 0.88
+15 Ab 818.18 60 F bVI 818.03 3 2 4 0.15
+- Gx 831.82 61 Ex xV 832.39 5 -1 15 -0.58
+- Fxx# 845.45 62 Dxx# xx#IV 846.76 7 -4 34 -1.30
+- C5b 859.09 63 A5b 5bVIII 857.75 0 7 35 1.34
+16 Bbbb 872.73 64 Gbb bbVII 872.11 2 4 16 0.61
+- A 886.36 65 F# VI 886.48 4 1 3 -0.11
+- Gx# 900.00 66 Ex# x#V 900.84 6 -2 22 -0.84
+- Fxxx 913.64 67 Dxxx xxxIV 915.21 8 -5 41 -1.57
+17 C4b 927.27 68 A4b 4bVIII 926.20 1 6 28 1.07
+- Bbb 940.91 69 Gb bbVII 940.56 3 3 9 0.35
+- A# 954.55 70 Fx #VI 954.93 5 0 10 -0.38
+- Gxx 968.18 71 Exx xxV 969.29 7 -3 29 -1.11
+18 D6b 981.82 72 B6b 6bII 980.28 0 8 40 1.53
+- Cbbb 995.45 73 Abbb bbbVII 994.65 2 5 21 0.81
+- Bb 1009.09 74 G bVII 1009.01 4 2 2 0.08
+- Ax 1022.73 75 Fx# xVI 1023.38 6 -1 17 -0.65
+19 Gxx# 1036.36 76 Exx# xx#V 1037.74 8 -4 36 -1.38
+- D5b 1050.00 77 B5b 5bII 1048.73 1 7 33 1.27
+
+- Cbb 1063.64 78 Abb bbVIII 1063.10 3 4 14 0.54
+- B 1077.27 79 G# VII 1077.46 5 1 5 -0.19
+20 Ax# 1090.91 80 Fxx x#IV 1091.83 7 -2 24 -0.92
+- Gxxx 1104.55 81 Exxx xxxV 1106.20 9 -5 43 -1.65
+- D4b 1118.18 82 B4b 4bII 1117.18 2 6 26 1.00
+- Cb 1131.82 83 Ab bVIII 1131.55 4 3 7 0.27
+21 B# 1145.45 84 Gx #VII 1145.91 6 0 12 -0.46
+- Axx 1159.09 85 Fxx# xxVI 1160.28 8 -3 31 -1.19
+- E6b 1172.73 86 C5b 6bIII 1171.27 1 8 38 1.46
+- Dbbb 1186.36 87 Bbbbb bbbII 1185.63 3 5 19 0.73
+22 C 1200.00 88 A VIII 1200.00 5 2 0 0 0.00
